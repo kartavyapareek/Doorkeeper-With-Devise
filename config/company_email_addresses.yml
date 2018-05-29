@@ -1,0 +1,14 @@
+ development:
+  sales: "sales@billeasy.com"
+  sales_cc: "sales@billeasy.com"
+  ops: "sales@billeasy.com"
+
+staging:
+  sales: "sales@billeasy.com"
+  sales_cc: "sales@billeasy.com"
+  ops: "sales@billeasy.com"
+
+production:
+  sales: "sales@billeasy.com"
+  sales_cc: "sales@billeasy.com"
+  ops: "sales@billeasy.com"

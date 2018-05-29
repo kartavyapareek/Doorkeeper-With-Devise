@@ -1,0 +1,11 @@
+development:
+  user_id: userid
+  password: password
+
+staging:
+  user_id: <%= ENV['BILLEASY_WEBSITE_GUPSHUP_USER_ID'] %>
+  password: <%= ENV['BILLEASY_WEBSITE_GUPSHUP_PASSWORD'] %>
+
+production:
+  user_id: <%= ENV['BILLEASY_SWAY_GUPSHUP_USER_ID'] %>
+  password: <%= ENV['BILLEASY_SWAY_GUPSHUP_PASSWORD'] %>
